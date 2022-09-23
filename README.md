@@ -1,4 +1,4 @@
-## TinDog
+## RPG JS
 O RPG é resultado de um projeto feito dentro do curso The Frontend Developer Career Path. 
 
 ## Features utilizadas: 
